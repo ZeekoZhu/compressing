@@ -1,6 +1,6 @@
 {
-  "name": "compressing",
-  "version": "1.6.0",
+  "name": "@zeeko/compressing",
+  "version": "1.6.1-patch.1",
   "description": "Everything you need for compressing and uncompressing",
   "main": "index.js",
   "scripts": {
